@@ -1,0 +1,21 @@
+git clone <url>     -  to clone project repo to local system 
+
+---  after adding some files/code  ----  
+
+git status     -   to know whethere there are any changes in local system 
+
+git add .     -   to add the changes to the local replica of the remote system 
+
+git commit - m "message "    -  to commit changes to the local replica of the remote system 
+
+git push    -   to push changes to the remove repo 
+
+
+
+git checkout - b <branch_Name >     -   to create a new branch on branch_name and point to it. 
+
+git checkout <branch_name>     -  just to switch to the existing branch 
+
+
+git pull - to pull the latest changes from remote repo to local folder 
+
